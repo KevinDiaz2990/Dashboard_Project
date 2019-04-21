@@ -1,0 +1,27 @@
+{
+  "name": "dashboard_project",
+  "version": "1.0.0",
+  "description": "Basic_Dashboard_Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinDiaz2990/Dashboard_Project.git"
+  },
+  "keywords": [
+    "dashboard",
+    "website"
+  ],
+  "author": "Kevin Diaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KevinDiaz2990/Dashboard_Project/issues"
+  },
+  "homepage": "https://github.com/KevinDiaz2990/Dashboard_Project#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.5.2"
+  }
+}

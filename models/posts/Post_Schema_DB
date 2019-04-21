@@ -1,0 +1,11 @@
+Posts:
+
+unique_id (Integer),
+
+title (String),
+
+post_content (String),
+
+id_of_user (Integer),
+
+tags (Array)
